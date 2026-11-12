@@ -64,6 +64,8 @@ The aim is to connect technical reporting with useful hunting hypotheses while d
 ## Certifications & Recognition
 
 - Microsoft Certified: Security Operations Analyst Associate (SC-200)
+- On the spot award by TCS
+- Claude Certified Architect Professional (CCAR-P)
 - ISC2 Certified in Cybersecurity (CC)
 - Oracle Cloud Infrastructure Foundations Associate
 - Certified AppSec Practitioner — The SecOps Group
